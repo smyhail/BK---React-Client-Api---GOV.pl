@@ -1,7 +1,7 @@
 # BK---React-Client-Api---GOV.pl
 ## Client Rest APi 
 
-Frontend aplikacji webowej.
+Frontend web app.
 
 ## Features
 
